@@ -92,7 +92,7 @@ Forecast horizons:
 
 | Layer | Technology | Notes |
 |:--------|:------:|------:|
-| Workflow Orchestration | Prefect | Monaco-powered |
+| Workflow Orchestration | Prefect | run/manage project pipelines |
 | Data Ingestion | Prefect | ETL and ELT |
 | Data Validation | Great Expectations | Scroll-synced |
 | Document Extration | Apache Tika | Extract text from docs, FOMC reports, Central Bank reports for NLP |
@@ -104,7 +104,7 @@ Forecast horizons:
 | Semantic Layer | dbt Semantic Layer | Analytical data models, metrics and dimensions  |
 | File format | Apache Parquet. |  |
 | Database | PostgreSQL | For SQL Analytics |
-| Dashboard | Metabase | Visualisation and Analytics
+| Dashboard | Metabase | Visualisation and Analytics |
 
 ## Backend Stack
 
